@@ -1,0 +1,7 @@
+Below are the deployment links of this Project
+
+GitHub Pages- https://deepak8260.github.io/Recipe-HTML-Website-by-Kumar/
+
+Netlify - https://kumarai-recipe.netlify.app/
+
+Versel - https://kumarai-recipe-html.vercel.app/
